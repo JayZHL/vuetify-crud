@@ -1,4 +1,5 @@
 # vuetify_crud
+Se implemento el front-end con Vuetify junto con las operaciones CRUD
 
 ## Project setup
 ```
